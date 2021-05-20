@@ -1,2 +1,2 @@
 # FTIR
-Tools for the analysis of FTIR spectroscopic data
+Matlab-based tools for the analysis of FTIR spectroscopic data
